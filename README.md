@@ -12,7 +12,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/yugal-verma-28b3671ab/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yugal-verma-28b3671ab/" height="30" width="40" /></a>
+<a href="https://kaggle.com/yugal123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="yugal123" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/yugalverma047" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="yugalverma047" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/yugal123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yugal123" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/yugalverma047" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="yugalverma047" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -23,8 +26,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yugal308&show_icons=true&locale=en" alt="yugal308" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yugal308&" alt="yugal308" /></p>
-
-<!---
-Yugal308/Yugal308 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
